@@ -17,3 +17,6 @@ I've opted to use PEST so both Unit and Feature tests are run using a single com
 ```console
 $ ./vendor/bin/pest
 ```
+
+## Accessing the Profit and Loss API endpoint
+[Profit and Loss Endpoint](http://localhost/profit-and-loss)
